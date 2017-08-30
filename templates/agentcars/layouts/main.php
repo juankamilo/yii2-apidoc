@@ -182,9 +182,9 @@ JS
         </ul>
     </div>
 
-    <?= $content ?>
-*/?>
 
+*/?>
+    <?= $content ?>
 </div>
 <?php /*
 <footer class="footer">
