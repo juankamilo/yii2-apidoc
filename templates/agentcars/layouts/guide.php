@@ -53,7 +53,7 @@ $this->beginContent('@yii/apidoc/templates/agentcars/layouts/main.php', isset($g
     </div>
     <div class="col-md-9 guide-content" role="main">
         <?= $content ?>
-        <div class="toplink"><a href="#" class="h1" title="go to top"><span class="glyphicon glyphicon-arrow-up"></a></div>
+        <div class="toplink"><a href="#" class="h1" title="go to top"><span class="glyphicon glyphicon-arrow-up"></span></a></div>
     </div>
 </div>
 <?php
